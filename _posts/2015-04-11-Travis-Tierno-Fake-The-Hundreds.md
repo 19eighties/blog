@@ -33,7 +33,7 @@ The P1 promo card (shown here) featuring the original cloud banner is a complete
 > possibility that Topps made the cards, but
 > we are not too sure, you may reach out to
 > them for more information. Sorry! Wish we
-> could have provided more information, |
+> could have provided more information, I
 > would recommend reaching out to Topps
 > for any other questions.
 >
