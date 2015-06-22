@@ -36,11 +36,11 @@ The P1 promo card (shown here) featuring the original cloud banner is a complete
 > could have provided more information, |
 > would recommend reaching out to Topps
 > for any other questions.
-
+>
 > Thank you for your support!
-
+>
 > The Hundreds Service
-
+>
 > Jasmine Ortega, Customer Service l Sales
 
 
