@@ -2,7 +2,7 @@
 layout: post
 title: Fake "The Hundreds" Garbage Pail Kids Card Set
 date: 10:55 11/04/2015	
-author: 1980s Staff
+#author: 1980s Staff
 comments: true
 categories: [garbage-pail-kids, fake, the-hundreds]
 ---
