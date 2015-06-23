@@ -19,7 +19,7 @@ This set is 100% bootleg and Travis Tierno was the creator and marketer of the s
 
 We are sorry to be the ones to tell everyone this but we figured it was the right thing to do to warn others about this fake set. The Hundreds Promo set was advertised to be a limited edition of 50 sets, and Travis supposedly had 25 of the 50 for sale. We stopped counting when we hit 36. Layron DeJarnette, who painted the actual artwork (regular Garbage Pail Kids Artist) has no knowledge of a set of small cards being made. They were never produced by Topps as they have no copyright. There is extensive amounts of evidence here and he has been demodded in most groups and is currently banned from GPKUG (Garbage Pail Kids Underground forum) and various other forums and gpk groups online.
 
-![P1 promo card](http://i.imgur.com/eL3nIVo.jpg)
+![P1 promo card](http://i.imgur.com/uFVFBmE.jpg)
 The P1 promo card (shown here) featuring the original cloud banner is a complete fabrication based on art lifted from the original Adam Bomb card and The Hundreds cherry bomb character painted by DeJarnette.
 
 
