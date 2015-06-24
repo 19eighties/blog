@@ -21,7 +21,7 @@ We are sorry to be the ones to tell everyone this but we figured it was the righ
 The P1 promo card (shown here) featuring the original cloud banner is a complete fabrication based on art lifted from the original Adam Bomb card and The Hundreds cherry bomb character painted by DeJarnette.
 
 
-### Email from The Hundreds Representative
+#### Email from The Hundreds Representative
 
 > Unfortunately, we never produced small
 > cards, we did make 15 large sets though
@@ -41,13 +41,13 @@ The P1 promo card (shown here) featuring the original cloud banner is a complete
 >
 > Jasmine Ortega, Customer Service l Sales
 
-**UPDATE**
+### UPDATE
 
 There is an extensive thread linked below where "David R" asks where the set came from after buying it from Tierno in a Facebook group. A member "Martian Commander" claims he worked for Topps and worked on that very set wanting to know where the set came from as well. The inquiry was made almost a year before the fraud was discovered. 
 
 It is now known Adam Levine is "Martian Commander" and was in contact with Tierno entrusting him with distributing promo cards to the community along with giving him other exclusive goods. Levine had been given a package of **Adam** Bomb themed goods by Tierno and his friends to secure relations for community group giveaways, but some amount of those items were being sold or traded for by Tierno instead. Levine no longer works for Topps.
 
-### Quote from Adam Levine
+#### Quote from Adam Levine
 
 >Just became of aware of this. I didn't have his contact info previously. Wasn't aware this was such a significant problem until now.
 >
