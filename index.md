@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "The 1980's blog curating content about your favorite decade."
+tags: [1980's, eighties, blog, garbage pail kids, toys, games, sitcoms, movies, television]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: title-image-1.jpg
+  credit: 1980s.me
+  #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
