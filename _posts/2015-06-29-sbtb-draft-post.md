@@ -2,6 +2,7 @@
 layout: post
 title: Saved by the Bell Reviewed Podcast, Reviewed
 date: 29/06/2015	
+excerpt: 'Saved by the Bell Reviewed is a podcast project with four hosts that review every episode of everyone’s favorite 90’s show about a high school clique.'
 #author: 1980s Staff
 comments: true
 tags: [saved-by-the-bell, podcast]
