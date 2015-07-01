@@ -6,7 +6,7 @@ date: 10:55 11/04/2015
 comments: true
 tags: [garbage-pail-kids, fake, the-hundreds]
 ---
-test
+
 The 1980s staff has some unfortunate news for the members of this community. Anyone who has purchased "The Hundreds trading card set" from Travis Tierno has been lied to and scammed. We have contacted The Hundreds Company and a number of other sources and found out that they never released this set. A small (2.5" x 3.5") card set was never produced, Only the jumbo cards and keychains were officially licensed. 
 
 ![](http://s14.postimg.org/41o86a50h/GPK_1_A.jpg)
