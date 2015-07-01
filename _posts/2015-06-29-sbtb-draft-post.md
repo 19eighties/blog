@@ -1,16 +1,11 @@
 ---
 layout: post
 title: Saved by the Bell Reviewed Podcast, Reviewed
-date: 10:55 06/29/2015	
+date: 10:00 06/29/2015	
 #author: 1980s Staff
 comments: true
 tags: [saved-by-the-bell, podcast]
 ---
-
-
-# Saved by the Bell Reviewed Podcast, Reviewed
-
-
 
 #### Intro:
 
@@ -69,9 +64,3 @@ https://soundcloud.com/bradsucks/saved-by-the-bell-theme
 > just all right I’m in hell, 
 > lets watch Saved By The Bell.
 
----
-
-My first thought about the show early on was trying to figure out who would I want to recommend the show to. If you are a very hardcore SbtB fan and love podcasts I think it will be up your alley. 
-
-David Bitzenhofer
-Twitter: https://twitter.com/doctorbitz
