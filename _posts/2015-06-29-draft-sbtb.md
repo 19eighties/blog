@@ -41,9 +41,9 @@ The podcast has developed some vocabulary for the show, which I wonder if it wil
 INSERT theme song.
 https://soundcloud.com/bradsucks/saved-by-the-bell-theme
 
-{% highlight html %}
+
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/146783466&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-{% endhighlight %}
+
 ### Theme Song Lyrics
 
 > When I'm torrenting old recordings, 
