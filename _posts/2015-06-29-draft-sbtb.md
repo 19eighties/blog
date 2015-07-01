@@ -39,6 +39,7 @@ The podcast is currently highly reviewed on iTunes with almost a 5 star rating. 
 The podcast has developed some vocabulary for the show, which I wonder if it will carry on into the general lexicon for the show. The main protagonists of the show are labeled the “Golden Six” referring to how every story revolves around these characters with all the other students in the background are relegated to watching the action, powerless to do anything meaningful and struggling to be noticed through their unique style, expressions and voices. Another standout phrase is “pink rimmed fantasy” referring to the screen overlay used to denote a fantasy sequence in the TV show. For some reason “J-O’ed” also sticks out in my mind as a frequent phrase, however, it is not particularly specific to the SbtB show. I will also note, Carloyn Main has some unique pronunciations for major social media outlets.
 
 INSERT theme song.
+
 https://soundcloud.com/bradsucks/saved-by-the-bell-theme
 
 
