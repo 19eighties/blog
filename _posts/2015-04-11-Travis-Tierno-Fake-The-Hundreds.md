@@ -54,7 +54,7 @@ It is now known **Adam** Levine is "Martian Commander" and was in contact with T
 >Am dealing with it currently... disappointed to see it was a trusted member of the community.
 
 
-Continue the discussion here: <!-- ![](http://i.imgur.com/s42yJYu.png) --> [1980s Forums: Fake Hundreds Sets](http://forum.the19eighties.com/forum/gpk-general-discussion/fake-hundreds-sets/)
+Continue the discussion here: <!-- ![](http://i.imgur.com/s42yJYu.png) --> [1980s Forums: Fake Hundreds Sets](http://1980s.me/f/1179-fake-hundreds-sets/)
 
 
 Sources:
