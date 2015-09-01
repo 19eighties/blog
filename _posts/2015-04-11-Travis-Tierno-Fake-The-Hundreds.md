@@ -7,7 +7,7 @@ comments: true
 tags: [garbage-pail-kids, fake, the-hundreds]
 ---
 
-The 1980s staff has some unfortunate news regarding the "The Hundreds trading card set" that was sold and promoted by Travis Tierno. We have contacted The Hundreds Company and a number of other sources and found out that they never released this set of small (2.5" x 3.5") trading cards. There are other items released by The Hundreds such as jumbo cards, jumbo wax pack and keychains that were officially licensed by Topps. 
+The 1980s staff has some unfortunate news regarding the "The Hundreds trading card set" that was sold and promoted by Travis Tierno. We have contacted The Hundreds Company and a number of other sources and found out that they never released this set of small (2.5" x 3.5") trading cards. There are other items released by [The Hundreds](http://thehundreds.com/) such as jumbo cards, jumbo wax pack and keychains that were officially licensed by Topps. 
 
 ![](http://s14.postimg.org/41o86a50h/GPK_1_A.jpg)
 
