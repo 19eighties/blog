@@ -70,6 +70,12 @@ I would encourage any hardcore fan to check out the poscast and see if they woul
 > just all right I’m in hell, 
 > lets watch Saved By The Bell.
 
+### Where to Find the Podcast
+
+Tumblr: http://www.sbtbreviewed.com/
+Sticher: http://www.stitcher.com/podcast/austin-gorton/saved-by-the-bell-reviewed
+iTunes: https://itunes.apple.com/us/podcast/saved-by-the-bell-reviewed/id889658279?mt=2
+
 ### Show Hosts
 
 
