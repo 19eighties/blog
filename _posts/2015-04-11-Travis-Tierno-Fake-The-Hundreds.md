@@ -7,15 +7,15 @@ comments: true
 tags: [garbage-pail-kids, fake, the-hundreds]
 ---
 
-The 1980s staff has some unfortunate news for the members of this community. Anyone who has purchased "The Hundreds trading card set" from Travis Tierno has been lied to and scammed. We have contacted The Hundreds Company and a number of other sources and found out that they never released this set. A small (2.5" x 3.5") card set was never produced, Only the jumbo cards and keychains were officially licensed. 
+The 1980s staff has some unfortunate news regarding the "The Hundreds trading card set" that was sold and promoted by Travis Tierno. We have contacted The Hundreds Company and a number of other sources and found out that they never released this set. A small (2.5" x 3.5") card set was never produced. There are other items released by The Hundreds such as jumbo cards, jumbo wax pack and keychains that were officially licensed by Topps. 
 
 ![](http://s14.postimg.org/41o86a50h/GPK_1_A.jpg)
 
 ![](http://s27.postimg.org/9tge331c3/GPK_1_B.jpg)
 
-This set is 100% a bootleg and Travis Tierno was the creator and marketer of the set. Every sale from original owners of the small The Hundreds card set and promo card can be traced back to him. Original sets sold in 2013 for $20-30 on the GPK Underground while recently sets have sold upwards to $55-65. (*Edit:* people are now coming forward saying they have paid $75 and quoted $85 for one set even.)
+The sale of the cards started with a promo card giveaway made on the Garbage Pail Kids Underground Forum (GPKUG), where Tierno subsequently became a moderator. Every sale from original owners of the small The Hundreds card set and promo card can be traced back to him. Original sets sold in 2013 for $20-30 on the GPKUG while recently sets have sold upwards to $55-65 and higher for non-US buyers. 
 
-We are sorry to be the ones to tell everyone this but we figured it was the right thing to do to warn others about this fake set. The Hundreds trading card set was advertised to be a limited edition of 50 sets, and Travis supposedly had 25 of the 50 for sale. We stopped counting when we hit 36. Layron DeJarnette, who painted the actual artwork (regular Garbage Pail Kids Artist) has no knowledge of a set of small cards being made. They were never produced by Topps as they have no copyright. There is extensive amounts of evidence here and he has been demodded in most groups and is currently banned from GPK Underground forum and various other forums and gpk groups online.
+The set was advertised as a limited edition of 50 sets, and Tierno claimed he secured 25 of the 50 for sale. More than 36 sold sets were counted. Layron DeJarnette (an official Topps Artist), who created the original artwork had no prior knowledge of the bootleg set. They do not have no copyright and the quality is not up to typical standards. He has been demodded in most groups and was banned from GPK Underground forum and other groups on Facebook.
 
 ![P1 promo card](http://i.imgur.com/uFVFBmE.jpg)
 The P1 promo card (shown here) featuring the original cloud banner is a complete fabrication based on art lifted from the original Adam Bomb card and The Hundreds cherry bomb character painted by DeJarnette.
@@ -43,9 +43,9 @@ The P1 promo card (shown here) featuring the original cloud banner is a complete
 
 ### UPDATE
 
-There is an extensive thread linked below where "David R" asks where the set came from after buying it from Tierno in a Facebook group. A member "Martian Commander" claims he worked for Topps and worked on that very set wanting to know where the set came from as well. The inquiry was made almost a year before the fraud was discovered. 
+There is an extensive thread at the [Non-sport Update Forum](http://nonsportupdate.infopop.cc/eve/forums/a/tpc/f/954605353/m/2577004176) where member "David R" asks where the set came from after buying it from Tierno in a Facebook group. Another member "Martian Commander" chimed in claiming he worked for Topps and worked on The Hundreds set with the company also poster there wanting to know where the set came from as well. The inquiry was made almost a year before the fraud was discovered. 
 
-It is now known Adam Levine is "Martian Commander" and was in contact with Tierno sometime last year entrusting him with distributing promo cards to the community along with giving him other exclusive goods. Levine had been given a package of **Adam** Bomb themed goods by Tierno and his friends to secure relations for community group giveaways, but some amount of those items were being sold or traded for by Tierno instead. Levine no longer works for Topps.
+It is now known **Adam** Levine is "Martian Commander" and was in contact with Tierno sometime last year entrusting him with distributing promo cards to the community along with giving him other exclusive goods. Levine had been given a package of **Adam** Bomb themed goods by Tierno and his friends to secure relations for community group giveaways, but a portion of those items were being sold or traded for by Tierno instead. Levine no longer works for Topps.
 
 #### Quote from Adam Levine
 
