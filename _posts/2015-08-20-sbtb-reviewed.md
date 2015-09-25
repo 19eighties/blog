@@ -96,4 +96,4 @@ Saved by the Bell is a popular topic on the 80's Playground Forum. Check out mor
 
 ### Update
 
-The team has an Indiegogo campain to try to help raise funds for the costs to run the show, go check it out for some cool items such as trading cards! [https://www.indiegogo.com/projects/saved-by-the-bell-reviewed#/story]
+The team has an Indiegogo campain to try to help raise funds for the costs to run the show, go check it out for some cool items such as trading cards! (https://www.indiegogo.com/projects/saved-by-the-bell-reviewed#/story)
