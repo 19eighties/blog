@@ -72,11 +72,11 @@ I would encourage any hardcore fan to check out the poscast and see if they woul
 
 ### Where to Find the Podcast
 
-Tumblr: http://www.sbtbreviewed.com/
+Tumblr: <http://www.sbtbreviewed.com/>
 
-Sticher: http://www.stitcher.com/podcast/austin-gorton/saved-by-the-bell-reviewed
+Sticher: <http://www.stitcher.com/podcast/austin-gorton/saved-by-the-bell-reviewed>
 
-iTunes: https://itunes.apple.com/us/podcast/saved-by-the-bell-reviewed/id889658279?mt=2
+iTunes: <https://itunes.apple.com/us/podcast/saved-by-the-bell-reviewed/id889658279?mt=2>
 
 ### Show Hosts
 
@@ -96,4 +96,4 @@ Saved by the Bell is a popular topic on the 80's Playground Forum. Check out mor
 
 ### Update
 
-The team has an Indiegogo campain to try to help raise funds for the costs to run the show, go check it out for some cool items such as trading cards! https://www.indiegogo.com/projects/saved-by-the-bell-reviewed
+The team has an Indiegogo campain to try to help raise funds for the costs to run the show, go check it out for some cool items such as trading cards! <https://www.indiegogo.com/projects/saved-by-the-bell-reviewed>
